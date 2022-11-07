@@ -23,7 +23,7 @@ __Что там хочу:__
 
 
 ```
-![Египет](https://kidpassage.com/images/publications/chto-brat-s-soboy-v-egipet-k-s-umom/cover_original.jpeg)
+
 Что я там хочу:
 > Посмотреть на пирамиды, покататься на верблюде
 # Итог
